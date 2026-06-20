@@ -1,0 +1,5 @@
+B-1001	Wings of Fire	A.P.J. Abdul Kalam	Autobiography	5	4
+B-1002	The Guide	R.K. Narayan	Fiction	3	3
+B-1003	Gitanjali	Rabindranath Tagore	Poetry	4	4
+B-1004	Discovery of India	Jawaharlal Nehru	History	3	2
+B-1005	The Gamer	Gouther	Gaming	1	1
