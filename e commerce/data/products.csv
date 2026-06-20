@@ -1,0 +1,6 @@
+id;name;description;price;category;stockQuantity;imageName
+E002;Smartphone X;Latest 5G smartphone with a stunning 6.7-inch OLED display and advanced camera.;799.49;Electronics;14;smartphone
+A003;Leather Sneakers;Classic white leather sneakers for everyday smart casual style.;89.99;Apparel;12;sneakers
+H001;Smart Coffee Maker;Programmable drip coffee maker with app control, timer, and thermal carafe.;120.0;Home & Kitchen;7;coffeemaker
+H002;LED Desk Lamp;Dimmable desk lamp with USB charging ports, flexible neck, and 5 color modes.;34.5;Home & Kitchen;25;lamp
+H003;Vacuum Insulated Flask;Stainless steel double-wall leakproof water bottle, keeps cold 24h, 1L.;19.99;Home & Kitchen;40;flask
